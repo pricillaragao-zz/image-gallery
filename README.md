@@ -1,3 +1,3 @@
-# Starter
+# Image Gallery
 
-Starting point for my projects
+An image gallery with natural landscapes and motivational phrases.
