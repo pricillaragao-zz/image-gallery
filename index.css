@@ -2,6 +2,10 @@ body {
   margin: 0;
 }
 
+.absolute {
+  position: absolute;
+}
+
 .panels {
   min-height: 100vh;
   overflow: hidden;
